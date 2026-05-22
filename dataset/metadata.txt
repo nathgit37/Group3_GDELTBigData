@@ -3,7 +3,7 @@
 Variables used:
 
 | Variable | Description |
-|-----------|-------------|
+|---|---|
 | country_1 | Source country |
 | country_2 | Target country |
 | GoldsteinScale | Event impact score |
