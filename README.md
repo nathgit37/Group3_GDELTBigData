@@ -6,12 +6,12 @@ This project proposes a Cluster-Aware PageRank framework for analyzing large-sca
 
 The framework combines:
 
-- PySpark distributed processing
+- Integrating data through PySpark
 - PCA dimensionality reduction
 - K-Means clustering
-- Country interaction network construction
+- Country interaction network 
 - Weighted PageRank
-- Cluster-aware influence analysis
+- Cluster-aware PageRank
 
 ## Dataset
 
